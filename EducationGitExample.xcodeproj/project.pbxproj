@@ -10,6 +10,9 @@
 		B43BE9B11AA622C4002E66F4 /* Example.htm */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Example.htm; sourceTree = "<group>"; };
 		B43BE9B21AA63373002E66F4 /* Example2.htm */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Example2.htm; sourceTree = "<group>"; };
 		B47939B11B29ED9900F6F38F /* Screen1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen1.png; sourceTree = "<group>"; };
+		B47939B31B29F16C00F6F38F /* exampleCSV.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = exampleCSV.csv; sourceTree = "<group>"; };
+		B47939B41B29F16C00F6F38F /* exampleXLSX.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; path = exampleXLSX.xlsx; sourceTree = "<group>"; };
+		B47939B51B29F19100F6F38F /* Example.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = Example.docx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +22,9 @@
 				B43BE9B11AA622C4002E66F4 /* Example.htm */,
 				B43BE9B21AA63373002E66F4 /* Example2.htm */,
 				B47939B11B29ED9900F6F38F /* Screen1.png */,
+				B47939B31B29F16C00F6F38F /* exampleCSV.csv */,
+				B47939B41B29F16C00F6F38F /* exampleXLSX.xlsx */,
+				B47939B51B29F19100F6F38F /* Example.docx */,
 			);
 			sourceTree = "<group>";
 		};
